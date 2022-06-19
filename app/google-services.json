@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191327576119",
+    "project_id": "ratonera-d76f2",
+    "storage_bucket": "ratonera-d76f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191327576119:android:43aa0ce296de170bbf9fb2",
+        "android_client_info": {
+          "package_name": "com.example.ratonera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191327576119-00010in1ongr2sj00qleapm04r1hhirk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUcGF-knm9FS9xOwc-iIXvWwyM6FPSKno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191327576119-00010in1ongr2sj00qleapm04r1hhirk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
